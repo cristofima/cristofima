@@ -4,10 +4,10 @@
 
 ___________________________________________________________________
 <a href="mailto:cgcoronadom@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
-<a href="https://twitter.com/cristofima2016"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" > </a>
-<a href="https://dev.to/cristofima"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"> </a>
-<a href="https://www.linkedin.com/in/cristopher-coronado-moreira-a2659796/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
-<a href="https://www.buymeacoffee.com/cristofima"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" > </a>
+<a href="https://twitter.com/cristofima2016" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" > </a>
+<a href="https://dev.to/cristofima" target="_blank"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"> </a>
+<a href="https://www.linkedin.com/in/cristopher-coronado-moreira-a2659796/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
+<a href="https://www.buymeacoffee.com/cristofima" target="_blank"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" > </a>
 
 Here are some ideas to get you started:
 
