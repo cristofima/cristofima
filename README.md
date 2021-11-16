@@ -9,13 +9,13 @@ ___________________________________________________________________
 <a href="https://www.linkedin.com/in/cristopher-coronado-moreira-a2659796/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
 <a href="https://www.buymeacoffee.com/cristofima" target="_blank"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" > </a>
 
-Here are some ideas to get you started:
+Here are some things about me:
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on some events
-- 💬 Ask me about anything
-- 😄 Pronouns: he
-- ⚡ Fun fact: anime and movies
+- 💬 Ask me about any technology topic
+- 😄 Pronouns: he / his / him
+- ⚡ Hobbies: watch anime and movies
 
 ### Stats ⚡️
 ___________________________________________________________________
