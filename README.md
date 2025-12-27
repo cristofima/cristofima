@@ -55,12 +55,6 @@ Senior Full Stack Engineer with **6+ years** building enterprise applications wi
 ---
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cristofima&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
   
 <a href="https://github.com/cristofima">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cristofima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=prs_merged_percentage&rank_icon=percentile"/>
