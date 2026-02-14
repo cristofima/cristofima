@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-Senior Full Stack Engineer with **6+ years** building enterprise applications with **.NET, Angular, and Azure AI integration** for Banking and Energy industries. Microsoft MVP (AI) and AWS Community Builder focused on intelligent automation through RAG architectures and cloud-native solutions.
+Senior AI Engineer with **6+ years** building enterprise applications in **.NET, Angular, and Azure AI integration** for Banking and Energy industries. Microsoft MVP (AI) and AWS Community Builder focused on intelligent automation through RAG architectures and cloud-native solutions.
 
-🤖 Building AI-powered apps that deliver real impact (60% faster retrieval, 40% less manual work)  
+🤖 Building AI-powered apps that deliver real impact (85% faster time-to-answer, 40% less manual work)  
 ☁️ Designing scalable microservices on Azure and AWS  
 🎯 Bridging traditional full-stack development with modern AI capabilities
 
@@ -31,13 +31,13 @@ Senior Full Stack Engineer with **6+ years** building enterprise applications wi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Currently exploring:** Semantic Kernel • LangGraph • LangChain • Azure OpenAI • RAG Architectures
+**Currently exploring:** GraphRAG • LLMOps • FinOps • LangGraph • Agent Framework
 
 ---
 
 ## 🏆 Recognition
 
-**🎖️ Microsoft MVP (AI)** - 2023-Present | **☁️ AWS Community Builder** - 2021-Present  
+**🎖️ Microsoft MVP (AI)** - 2024-Present | **☁️ AWS Community Builder** - 2022-Present  
 **🎤 Technical Speaker** - Microsoft Reactor, Global AI Community
 
 **Certifications:** Azure AI Engineer (AI-102) • Azure Data Scientist (DP-100) • Azure Developer (AZ-204) • AWS Cloud Practitioner (CLF-C02)
