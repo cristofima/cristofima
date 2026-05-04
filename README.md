@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-Senior AI Engineer with **6+ years** building enterprise applications in **.NET, Angular, and Azure AI integration** for Banking and Energy industries. Microsoft MVP (AI) and AWS Community Builder focused on intelligent automation through RAG architectures and cloud-native solutions.
+Senior AI Engineer with **6+ years** in software engineering, the last 2 focused on AI integration for Banking and Fintech. Microsoft MVP (AI) and AWS Community Builder building LLM orchestration, RAG pipelines, and Agentic workflows on .NET/Python backends.
 
-🤖 Building AI-powered apps that deliver real impact (85% faster time-to-answer, 40% less manual work)  
-☁️ Designing scalable microservices on Azure and AWS  
-🎯 Bridging traditional full-stack development with modern AI capabilities
+🏗️ Built MCP Server security standard connecting 3 agent runtimes, adopted by 6+ IDB teams (30+ engineers)  
+🚀 Reduced release cycles from 30 min to under 5 min via GitHub Actions CD pipeline  
+🤖 Cut agent onboarding from 1 week to hours with Foundry Hosted Agent reference architecture
 
 ---
 
@@ -22,23 +22,24 @@ Senior AI Engineer with **6+ years** building enterprise applications in **.NET,
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Currently exploring:** GraphRAG • LLMOps • FinOps • LangGraph • Agent Framework
+**AI & Orchestration:** Azure OpenAI · LangGraph · Microsoft Agent Framework · Azure AI Search · MCP · Foundry
+
+**Current focus:** GraphRAG · LLMOps · MCP Server architecture · Foundry Hosted Agents
 
 ---
 
 ## 🏆 Recognition
 
-**🎖️ Microsoft MVP (AI)** - 2024-Present | **☁️ AWS Community Builder** - 2022-Present  
-**🎤 Technical Speaker** - Microsoft Reactor, Global AI Community
+**🎖️ Microsoft MVP (AI)** · since 2024 | **☁️ AWS Community Builder** · since 2022  
+**🎤 Technical Speaker** · Microsoft Reactor, Global AI Community
 
 **Certifications:** Azure AI Engineer (AI-102) • Azure Data Scientist (DP-100) • Azure Developer (AZ-204) • AWS Cloud Practitioner (CLF-C02)
 
