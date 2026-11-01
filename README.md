@@ -58,10 +58,10 @@ Senior AI Engineer with **6+ years** in software engineering, the last 2 focused
 <div align="center">
   
 <a href="https://github.com/cristofima">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cristofima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=prs_merged_percentage&rank_icon=percentile"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=cristofima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=rank"/>
 </a>
 <a href="https://github.com/cristofima">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cristofima&layout=normal&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css,php,Jupyter+Notebook"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cristofima&layout=normal&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css,php,Jupyter+Notebook"/>
 </a>
 
 </div>
