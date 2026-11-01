@@ -2,19 +2,20 @@
 
 <div align="center">
   
-[![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP%20(AI)-2%20years-0078D4?style=flat&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/mvp/profile/3a1e6f42-799d-44d1-b792-50550905b014)
-[![AWS Community Builder](https://img.shields.io/badge/AWS%20Community%20Builder-4%20years-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://builder.aws.com/community/@cristofima)
+[![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP%20(AI)-since%202024-0078D4?style=flat&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/mvp/profile/3a1e6f42-799d-44d1-b792-50550905b014)
+[![AWS Community Builder](https://img.shields.io/badge/AWS%20Community%20Builder-since%202022-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://builder.aws.com/community/@cristofima)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-coronado)
 
 </div>
 
 ## 🚀 About Me
 
-Senior AI Engineer with **6+ years** in software engineering, the last 2 focused on AI integration for Banking and Fintech. Microsoft MVP (AI) and AWS Community Builder building LLM orchestration, RAG pipelines, and Agentic workflows on .NET/Python backends.
+Senior AI Engineer with **7+ years** in software engineering, the last 2+ building production AI for Banking, Fintech and Development Finance. Microsoft MVP (AI) and AWS Community Builder focused on secure, reusable enterprise AI platforms: from agent architecture to evaluation, deployment, and observability on .NET/Python backends.
 
-🏗️ Built MCP Server security standard connecting 3 agent runtimes, adopted by 6+ IDB teams (30+ engineers)  
-🚀 Reduced release cycles from 30 min to under 5 min via GitHub Actions CD pipeline  
-🤖 Cut agent onboarding from 1 week to hours with Foundry Hosted Agent reference architecture
+🔐 Built a reusable .NET MCP server template with Microsoft Entra ID and OAuth 2.0, cutting onboarding from 1 week to a few hours for 6 IDB teams  
+🤖 Shipped a Python agent on Microsoft Foundry giving analysts knowledge self-service with per-user consent  
+🧪 Gated PRs with a record/replay evaluation harness (LLM-as-judge + Foundry Evaluations)  
+📈 Cut RAG time-to-answer by 85% (10-15 min to 1-2 min) for 200+ banking engineers
 
 ---
 
@@ -30,18 +31,19 @@ Senior AI Engineer with **6+ years** in software engineering, the last 2 focused
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**AI & Orchestration:** Azure OpenAI · LangGraph · Microsoft Agent Framework · Azure AI Search · MCP · Foundry
+**AI & Orchestration:** Microsoft Foundry (Hosted Agents, Toolbox, Evaluations) · Microsoft Agent Framework · MCP · Azure OpenAI · LangGraph · Azure AI Search · OpenTelemetry
 
-**Current focus:** GraphRAG · LLMOps · MCP Server architecture · Foundry Hosted Agents
+**Current focus:** MCP server architecture · Foundry hosted agents · agent evaluation · observability
 
 ---
 
 ## 🏆 Recognition
 
 **🎖️ Microsoft MVP (AI)** · since 2024 | **☁️ AWS Community Builder** · since 2022  
-**🎤 Technical Speaker** · Microsoft Reactor, Global AI Community
+**🎤 Technical Speaker** · Microsoft Reactor, Global AI Community  
+**✍️ Technical Writer** · 35+ published articles
 
-**Certifications:** Azure AI Engineer (AI-102) • Azure Data Scientist (DP-100) • Azure Developer (AZ-204) • AWS Cloud Practitioner (CLF-C02)
+**Certifications:** Azure AI Engineer (AI-102) • Azure Data Scientist (DP-100) • Azure Developer (AZ-204) • AWS Developer Associate (DVA-C02) • AWS Cloud Practitioner (CLF-C02)
 
 ---
 
@@ -58,10 +60,10 @@ Senior AI Engineer with **6+ years** in software engineering, the last 2 focused
 <div align="center">
   
 <a href="https://github.com/cristofima">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=cristofima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=rank"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=cristofima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=contributions,all_time_contribs"/>
 </a>
 <a href="https://github.com/cristofima">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cristofima&layout=normal&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css,php,Jupyter+Notebook"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cristofima&layout=normal&langs_count=4&theme=tokyonight&hide_border=true&hide=html,css,scss,php,blade,HCL,jupyter%20notebook"/>
 </a>
 
 </div>
